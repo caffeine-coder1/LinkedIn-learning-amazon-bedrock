@@ -1,0 +1,25 @@
+enter you question regarding the social media policy.
+which website i can post on?
+/home/codespace/.python/current/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:117: LangChainDeprecationWarning: The function `__call__` was deprecated in LangChain 0.1.0 and will be removed in 0.2.0. Use invoke instead.
+  warn_deprecated(
+
+Agent:
+Hi there! According to the provided information, Globe Bank has a presence on social media platforms. You can post on their social media accounts, which include hashtags like #CustomerFavorite, #FridayTrivia, #ClimateChange, #HappyMonday, #InTheNews, #WeAreHiring, and more. These hashtags are used to categorize their online content and increase customer engagement. You can also use these hashtags to reach out to Globe Bank's audience. However, please note that only authorized personnel should engage in social media conversations and messages. If you're not authorized, you can forward inquiries to the correct department.
+
+enter you question regarding the social media policy.
+what i shouldn't do while posting on social media?
+
+Agent:
+    Based on the provided information, here are some things you shouldn't do while posting on social media:
+
+    * Don't use emojis to replace words.
+    * Don't use stock photos sparingly. Make sure they are relevant to the post or story.
+    * Don't use photos of products that have yet to be created, announced, or are otherwise still under non-disclosure.
+    * Don't use close-up photos of anyone's desk space that allow any documents or screens to be readable.
+    * Don't post unauthorized content, such as photos of employees without their permission.
+    * Don't create unique and make-up new hashtags each time you post. Instead, maintain consistency and use common words or phrases that represent the content.
+    * Don't use hashtags that are not accessible or readable for people with disabilities.
+    * Don't engage in social media conversations and messages without being authorized to do so.
+    * Don't forward inquiries and messages to the wrong department or party. Instead, fast-track them to the correct department or party.
+
+Remember to always follow the guidelines and best practices provided to ensure that your social media posts are effective and respectful.
