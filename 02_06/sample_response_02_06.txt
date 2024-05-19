@@ -1,0 +1,6 @@
+Here is the translation:
+
+English: Learning about Generative AI is fun and exciting using Amazon Bedrock.
+French: Apprendre à propos de l'IA générative est amusant et excitant en utilisant Amazon Bedrock.
+
+Note: "Bedrock" is a proper noun, so it's left untranslated.
